@@ -88,3 +88,4 @@ src/*.c.smatch
 src/*.o
 src/.dirstamp
 stamp-*
+.idea/
